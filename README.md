@@ -34,7 +34,7 @@ The implementation is provided in the Python script: `Topsis_PreTrained_Models_T
 
 ## 4. Results
 ### Final Rankings:
-![image](https://github.com/user-attachments/assets/topsis_ranking_results.png)
+![image](https://github.com/ASingh917/Topsis_PreTrained_Models_for_Text_Classification/blob/main/Topsis_Ranking.png)
 
 ### TOPSIS Output:
 ![image](https://github.com/user-attachments/assets/topsis_scores_chart.png)
