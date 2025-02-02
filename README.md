@@ -26,8 +26,9 @@ The **TOPSIS method** is applied using the following steps:
 5. **Calculation of TOPSIS scores** for each model.
 6. **Ranking of models** based on the scores.
 
-Decision Matrix
-![image]
+**Decision Matrix**
+
+![image](https://github.com/ASingh917/Topsis_PreTrained_Models_for_Text_Classification/blob/main/Decision%20Matrix.png)
 ## 3. Code Execution
 The implementation is provided in the Python script: `Topsis_PreTrained_Models_Text_Classification.ipynb`.
 
