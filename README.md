@@ -36,8 +36,8 @@ The implementation is provided in the Python script: `Topsis_PreTrained_Models_T
 ### Final Rankings:
 ![image](https://github.com/ASingh917/Topsis_PreTrained_Models_for_Text_Classification/blob/main/Topsis_Ranking.png)
 
-### TOPSIS Output:
-![image](https://github.com/user-attachments/assets/topsis_scores_chart.png)
+### Visualization:
+![image](https://github.com/ASingh917/Topsis_PreTrained_Models_for_Text_Classification/blob/main/Visualization_Topsis.png)
 
 ## 5. Usage
 1. Clone this repository.
